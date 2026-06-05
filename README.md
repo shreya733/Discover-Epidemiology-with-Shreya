@@ -1,4 +1,6 @@
 # SHREYA DIXIT
+
+(/images/Shreya.png)
 ## EDUCATION
 
 ### Drexel University, Philadelphia, PA

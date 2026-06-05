@@ -1,6 +1,8 @@
 # SHREYA DIXIT
 
-(/images/Shreya.png)
+<p align="center">
+  <img src="Shreya.png" width="220" alt="Shreya Dixit">
+</p>
 ## EDUCATION
 
 ### Drexel University, Philadelphia, PA

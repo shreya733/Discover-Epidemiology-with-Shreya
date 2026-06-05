@@ -1,27 +1,27 @@
 # SHREYA DIXIT
-# EDUCATION
+## EDUCATION
 
-## Drexel University, Philadelphia, PA
+### Drexel University, Philadelphia, PA
 
 **Masters of Public Health**
 **Concentration:** Epidemiology
 09/2026 – 05/2028
 
-## Soka University of America, Aliso Viejo, CA
+### Soka University of America, Aliso Viejo, CA
 
 **Bachelor of Liberal Arts (GPA: 3.85/4.0), Honors: Magna Cum Laude**
 **Concentration:** Social and Behavioral Sciences for Global Health
 05/2026
 
-## Universidad de Granada, Granada, Spain
+### Universidad de Granada, Granada, Spain
 
 01/2025 – 05/2025
 
 ---
 
-# RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
 
-## GIS Research Assistant
+### GIS Research Assistant
 
 **PI:** James O’Neil Spady, PhD
 **Soka University of America (Aliso Viejo, CA)**
@@ -30,7 +30,7 @@
 * Edited basemaps of Charleston (1822) and designed a website “MappingBlackCharleston.org” to visualize and the lived experiences of enslaved Black women
 * Mapped Acjachemen native plants in Orange County using ArcGIS Pro, contributing to awareness of Indigenous knowledge
 
-## Sociology Research Assistant
+### Sociology Research Assistant
 
 **PI:** Danielle Denardo, PhD
 **Soka University of America (Aliso Viejo, CA)**
@@ -41,9 +41,9 @@
 
 ---
 
-# PUBLIC HEALTH INTERNSHIPS
+## PUBLIC HEALTH INTERNSHIPS
 
-## Child and Youth Development Assistant
+### Child and Youth Development Assistant
 
 **YMCA of Orange County (Aliso Viejo, CA)**
 08/2025 – 12/2025
@@ -51,7 +51,7 @@
 * Assisted with curriculum-aligned activities, including social-emotional learning, and STEAM
 * Fostered youth success through mentorship, actively encouraging program engagement and participation
 
-## Education Program Intern
+### Education Program Intern
 
 **Aga Khan Schools (London, United Kingdom)**
 05/2025 – 08/2025
@@ -59,14 +59,14 @@
 * Designed intervention plans and KPIs to improve student performance on ASSET tests in India
 * Executed a literature review on curriculum development strategies to improve children’s well-being in the Global South which created a well-being toolkit for Pakistan, India, Kenya, and Bangladesh
 
-## Health and Sustainability Intern
+### Health and Sustainability Intern
 
 **NexaYouth (Remote)**
 05/2025 – 06/2025
 
 * Researched heat-related pregnancy risks in the U.S. to better understand the intersection of climate change and maternal health to inform public health interventions
 
-## NTD Intern
+### NTD Intern
 
 **Drugs for Neglected Diseases initiative South Asia (New Delhi, India)**
 06/2024 – 08/2024
@@ -74,7 +74,7 @@
 * Collaborated with WomenLift Health focusing on women’s leadership in the NTD in India, and analyzed gender disparities in pre-registration clinical trials
 * Synthesized findings from over 80 climate, health, NTD publications, and Clinical Trial Registry of India to prepare for the InSciLEAD summit, New Delhi
 
-## Public Health Intern
+### Public Health Intern
 
 **International Clinical Epidemiology Network (New Delhi, India)**
 06/2023 – 08/2023
@@ -82,7 +82,7 @@
 * Collected clinical data for the Dementia project, and evaluated 100+ questionnaires from elderlies
 * Spearheaded community mobilization for Febrile Illness Surveillance Project increasing engagement
 
-## Project Intern
+### Project Intern
 
 **Fortis Healthcare (New Delhi, India)**
 06/2022 – 08/2022
@@ -91,49 +91,49 @@
 
 ---
 
-# RELATED PROJECTS
+## RELATED PROJECTS
 
-## Epidemiology in Global Health
+### Epidemiology in Global Health
 
 09/2025 – 12/2025
 
 * Led the discussion of the predictors of retention among men attending STI clinics in HIV prevention programs and research: A case-control study in Pune, India
 * Prepared discussions on two burden of proof studies assessing the health effects associated with physical, sexual, and psychological gender-based violence and intimate partner violence
 
-## Advanced GIS
+### Advanced GIS
 
 09/2024 – 12/2024
 
 * Performed cyclone and flood risk assessment in Southern India using spatial data; mapped 50 km buffers and classified flood zones in Kerala and Tamil Nadu using ArcGIS Pro
 * Traced the evolution of disease mapping from John Snow’s 1854 cholera map to Canada’s 2001 West Nile virus GIS surveillance
 
-## Medical Anthropology
+### Medical Anthropology
 
 09/2024 – 12/2024
 
 * Analyzed the case of Susannah Cahalan to identify limitations of the biomedical model and explored medical pluralism’s effect on illness perception, diagnosis, and treatment
 * Examined how misinformation, political polarization, religious beliefs, and historical trauma influenced COVID-19 vaccine hesitancy in the U.S.
 
-## Health Disparities
+### Health Disparities
 
 02/2024 – 05/2024
 
 * Explored gender disparities in tuberculosis incidence in the Democratic Republic of Congo; found men (ages 25–64) had significantly higher TB rates due to overcrowded prisons, hazardous labor, malnutrition, smoking, alcohol use, and HIV co-infection
 
-## Global Health in Africa
+### Global Health in Africa
 
 02/2024 – 05/2024
 
 * Co-authored an academic paper with Prof. Chika Esiobu, PhD, tracing the evolution of global health’s engagement with African Traditional Medicine across 1500–present
 
-## Introduction to Global Health
+### Introduction to Global Health
 
 09/2023 – 12/2023
 
 * Authored a policy brief to the V.A.P. of general education (Global Health) on the four global health priorities from the World Health Summit 2023
 * Contextualized sexual and reproductive health in Haiti 2010 and Nepal 2015 earthquakes
 
-## Plagues and People
+### Plagues and People
 
 02/2023 – 05/2023
 
@@ -142,7 +142,7 @@
 
 ---
 
-# QUANTITATIVE COURSES
+## QUANTITATIVE COURSES
 
 * Regression Analysis (02/2026)
 * Epidemiology and Global Health (09/2025)
@@ -155,7 +155,7 @@
 
 ---
 
-# AWARDS & FELLOWSHIP
+## AWARDS & FELLOWSHIP
 
 * Dornsife International Public Health Fellow (05/2026)
 * Public Health Dean’s Award (05/2026)
@@ -173,7 +173,7 @@
 
 ---
 
-# CERTIFICATIONS AND LICENSES
+## CERTIFICATIONS AND LICENSES
 
 * SBS Seniors: Human Subject Research (10/2025)
 * Planned Parenthood Sex Peer Educator (10/2025)
@@ -187,16 +187,16 @@
 
 ---
 
-# SKILLS
+## SKILLS
 
-## Foreign Languages
+### Foreign Languages
 
 * Hindi (Native)
 * English (Fluent)
 * Spanish (Fluent)
 * Sanskrit (Fluent)
 
-## Technical Skills
+### Technical Skills
 
 * Python
 * R
